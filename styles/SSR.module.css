@@ -1,0 +1,13 @@
+.container {
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.content {
+  margin-top: 1.5rem;
+}
+
+.content p {
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+}
